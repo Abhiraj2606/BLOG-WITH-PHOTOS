@@ -1,0 +1,24 @@
+body 
+{
+	  text-align: center;
+	  background-color: #00FFFF;
+	}
+
+	div 
+{
+	  margin-top: 15px;
+	}
+
+    
+	.image-section 
+{
+	
+	  display: flex;
+	  justify-content: center;
+	}
+
+	.section-style {
+	    marginright: 25px;
+	    marginleft: 25px;
+        backgroundColor: aqua;
+	}
